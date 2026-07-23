@@ -1,0 +1,308 @@
+{
+  "module": "Модуль 2. Технологии компьютерного зрения",
+  "version": "3.0",
+  "generated_utc": "2026-07-23T05:21:04+00:00",
+  "file_count_excluding_manifest": 60,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 59,
+      "sha256": "10ffa76e717884fe62dbb4e41bd2f7bd64145ee8b09c4e3f83740a4e3b3d22bf"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 308,
+      "sha256": "1d1499fe9e1989a7f2fce5e72e422b55eb42a520a395db89d328cf33dcbc5386"
+    },
+    {
+      "path": "LICENSE.md",
+      "size_bytes": 230,
+      "sha256": "b48f391579943d73b6cc82e137f2161cadd58c57d21950c8eab11e12805f180a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4648,
+      "sha256": "1d156f0444c86d3662cd31afb1ccd5be85d79cd33cd3db4f13b0586178624d8d"
+    },
+    {
+      "path": "VERSION.md",
+      "size_bytes": 50,
+      "sha256": "64a1eb2c11004a3758dcd3510662c3ec4d0209548f7e7dae3ffa6ff528aa1575"
+    },
+    {
+      "path": "assessment/measurement-and-scoring.md",
+      "size_bytes": 2669,
+      "sha256": "af790d482258fee4da62fe55df5dd7904e99c2a38117b0d402733929478244a7"
+    },
+    {
+      "path": "assessment/question-bank.md",
+      "size_bytes": 2996,
+      "sha256": "42e1c0096d7c1dfba74975c22f29a24128623af07e172ad7385fb49f397d52dd"
+    },
+    {
+      "path": "data/README.md",
+      "size_bytes": 156,
+      "sha256": "ddd260b8912340d7cf23edcee7ed15c1b2d06edd2a68ee95457bf2fad4245e89"
+    },
+    {
+      "path": "docs/deviations-and-decisions.md",
+      "size_bytes": 2238,
+      "sha256": "551f5c0aceec4975055bc405a5e02cc562d77037771e263db98422ab2e9cd80f"
+    },
+    {
+      "path": "docs/krm-extract.md",
+      "size_bytes": 2322,
+      "sha256": "9f3e91bf4487f42a1ab0005950cddff00cc3b97986f9672d2b8f0ae40d2c05b0"
+    },
+    {
+      "path": "docs/repository-tree.txt",
+      "size_bytes": 1941,
+      "sha256": "9a17f6b82759056339c78797bf907128a799ad77b23452bb9d3b2dd823c32af3"
+    },
+    {
+      "path": "docs/rpd-block2-fragment.png",
+      "size_bytes": 742512,
+      "sha256": "f7aff1b45b1b43f805087d063ef3ff3b242824c8bfe1ffed6f98c4b0510e3a2c"
+    },
+    {
+      "path": "docs/rpd-krm-traceability.md",
+      "size_bytes": 4067,
+      "sha256": "2e6340266083f5ed3a906eb7bf3de121f22752586bbfc14765809464bba192e6"
+    },
+    {
+      "path": "docs/rpd-krm-traceability.xlsx",
+      "size_bytes": 6870,
+      "sha256": "ca7378d707cb257a465a5f50b7018232c6bce9c2d42490d1d8386a480b4c00de"
+    },
+    {
+      "path": "docs/template-conformance.md",
+      "size_bytes": 1792,
+      "sha256": "d28ce488b3b02bcbd40f09b8853872347ea1371535f888210f3d612af8971856"
+    },
+    {
+      "path": "homework/HW06/student_assignment.docx",
+      "size_bytes": 37245,
+      "sha256": "5df8f40f45083ef08f33c186c025bc889323810586520abc99760076aa9773bc"
+    },
+    {
+      "path": "homework/HW06/teacher_rubric.docx",
+      "size_bytes": 37407,
+      "sha256": "328020d6d0def34b8efec6706ff4bbaacb581ed04ab91bfecadfea3184fd8422"
+    },
+    {
+      "path": "homework/HW07/student_assignment.docx",
+      "size_bytes": 37247,
+      "sha256": "e55ec1b598dd2da197ffbcc3639935fbeb2a98ab71e05a3ee29c7689d7f1fa71"
+    },
+    {
+      "path": "homework/HW07/teacher_rubric.docx",
+      "size_bytes": 37402,
+      "sha256": "f74cab87debaf1b3bf67631321e725a6eb75468120d1e1e14cd81a866d10031e"
+    },
+    {
+      "path": "homework/HW08/student_assignment.docx",
+      "size_bytes": 37210,
+      "sha256": "a42d59d0e91327b7b6f6a4a03ad281edfa0cf2a79c5d08b353ad6aae0113d2fe"
+    },
+    {
+      "path": "homework/HW08/teacher_rubric.docx",
+      "size_bytes": 37401,
+      "sha256": "cad5d34556656f5fdc2a3a1c7f1041f3cb0cd50c22258f32f6a55fec6a1d7ed4"
+    },
+    {
+      "path": "homework/HW09/student_assignment.docx",
+      "size_bytes": 37225,
+      "sha256": "d9043ae67223ef94500f91ca217b6795d9916422e4d3fdbdab8ec76a3d93cfb5"
+    },
+    {
+      "path": "homework/HW09/teacher_rubric.docx",
+      "size_bytes": 37399,
+      "sha256": "8214f361c55cafbe42310be83fd4e964c967c8b8b1ae57d8c92a065d93d5648d"
+    },
+    {
+      "path": "homework/HW10/student_assignment.docx",
+      "size_bytes": 37245,
+      "sha256": "51644542635c9a9d3b01514e233eda254ba5685a2e07e2a93754a73515ed7fc7"
+    },
+    {
+      "path": "homework/HW10/teacher_rubric.docx",
+      "size_bytes": 37402,
+      "sha256": "4ae32ee7eef909775d8b6884e64de5c9c4a031a9e8dde9fb729da37cbf799952"
+    },
+    {
+      "path": "kim/D34-detection-methods/kim-2.1.md",
+      "size_bytes": 4139,
+      "sha256": "6c39528633f66afbe4348db746e32bfc2801c3669f8684494c48529ae0bc7f33"
+    },
+    {
+      "path": "kim/D34-detection-methods/student_guide.docx",
+      "size_bytes": 39223,
+      "sha256": "01bf084fd390d4573d6a926f6d3248d17640e8a5a40053d2a1032f19733d9801"
+    },
+    {
+      "path": "kim/D34-detection-methods/teacher_rubric.docx",
+      "size_bytes": 39036,
+      "sha256": "ade13bc80136d03264bfdae668221f664e4b0996d9d770f04aed6db67cba89c8"
+    },
+    {
+      "path": "kim/D35-segmentation-methods/kim-2.2.md",
+      "size_bytes": 4155,
+      "sha256": "dc7a045cd1ee023b17776ad7658ca98bfe5f0863d22b5bf5d08d8ecb9471e64f"
+    },
+    {
+      "path": "kim/D35-segmentation-methods/student_guide.docx",
+      "size_bytes": 39237,
+      "sha256": "4cb110b142738437860ec5454b4850d4fe0c7f95888dc8d194c0d940f6a9e84a"
+    },
+    {
+      "path": "kim/D35-segmentation-methods/teacher_rubric.docx",
+      "size_bytes": 39106,
+      "sha256": "115c3670c7ca925a8448c283d3f7868dd6714e64de743bd0dbdb19f28073bb03"
+    },
+    {
+      "path": "kim/D36-video-object-of-interest/kim-2.3.md",
+      "size_bytes": 4031,
+      "sha256": "71fd0ef5ef2099e008b17d849984e51f8d8709b9bddb7ff2ccf78aa8a1d02466"
+    },
+    {
+      "path": "kim/D36-video-object-of-interest/student_guide.docx",
+      "size_bytes": 39197,
+      "sha256": "8a1d187ee743148ca8d94fc82edfc82b2bedb5f8437699adb1e58b5fcb3a5179"
+    },
+    {
+      "path": "kim/D36-video-object-of-interest/teacher_rubric.docx",
+      "size_bytes": 39022,
+      "sha256": "7c953c678e00f700f0dd9850be0cb669eb656b85940132c3d04cee0699259268"
+    },
+    {
+      "path": "kim/LR3-object-tracking/kim-2.4.md",
+      "size_bytes": 4606,
+      "sha256": "092489378afba3bee010c10ef7a7d401c6e4c205b643b802604170027662eb52"
+    },
+    {
+      "path": "kim/LR3-object-tracking/student_guide.docx",
+      "size_bytes": 39592,
+      "sha256": "97815b48a876be964393259036d4da1a9ca236b783ade838ff3fc03f140e04e8"
+    },
+    {
+      "path": "kim/LR3-object-tracking/teacher_rubric.docx",
+      "size_bytes": 39591,
+      "sha256": "b21d6fbeee4ec23fb50d340d22a8691de003ec8fc77ee938d03e1b6ba2258bde"
+    },
+    {
+      "path": "kim/LR4-object-model-stereo/kim-2.5.md",
+      "size_bytes": 4249,
+      "sha256": "b09dabb611709767f96a1b4e22bc1a38ad9be57731c6e43706c253d43c0dba1d"
+    },
+    {
+      "path": "kim/LR4-object-model-stereo/student_guide.docx",
+      "size_bytes": 39319,
+      "sha256": "660e4a1c00fc6532a7d0965288ad762e26dc3d01152767e7eb468ed9433cf142"
+    },
+    {
+      "path": "kim/LR4-object-model-stereo/teacher_rubric.docx",
+      "size_bytes": 39079,
+      "sha256": "e622a7160eaa727f71cec16e9ac2fb91f5666f10f1bb7333d408121b08012737"
+    },
+    {
+      "path": "lectures/L06-template-feature-matching.pdf",
+      "size_bytes": 68645,
+      "sha256": "bb496973ca210053fdbe73f4217643bfc742ca2f00c059ed11b1d8c45008fb5a"
+    },
+    {
+      "path": "lectures/L07-classical-segmentation.pdf",
+      "size_bytes": 68527,
+      "sha256": "f8af6dd0746d55aef998efb954cd0af70eff53c3592ec7248fff1efc55eba1c2"
+    },
+    {
+      "path": "lectures/L08-video-object-of-interest.pdf",
+      "size_bytes": 69093,
+      "sha256": "268dd09e26b8be801f14435c5f7fb895ae1fa25fc20ad3d483c2ad88d0472c0c"
+    },
+    {
+      "path": "lectures/L09-video-tracking.pdf",
+      "size_bytes": 69188,
+      "sha256": "09a8b59bd61f2c2af67173437ef0b3ad6331e4d8da10763b9f592bd6176e0911"
+    },
+    {
+      "path": "lectures/L10-epipolar-stereo-photogrammetry.pdf",
+      "size_bytes": 68317,
+      "sha256": "9baed5ab8e7667f2d43caa6015fe08fd20232272a697e9a65b5a847584dc7fb2"
+    },
+    {
+      "path": "methodical-guidelines/for-students-module2.docx",
+      "size_bytes": 37741,
+      "sha256": "905cebde8e8493262a1496ef4c0599c9d021dbc104746165585984c3e9470bca"
+    },
+    {
+      "path": "methodical-guidelines/for-teachers-module2.docx",
+      "size_bytes": 38403,
+      "sha256": "e795d5707edd2c5129190817f48db6ded1deafb86542e14ec2a93110be900574"
+    },
+    {
+      "path": "quality/cross-validation-checklist.md",
+      "size_bytes": 2455,
+      "sha256": "87e52fad94b557483b419fe6c46dc28e39077a0a3e98275a8e05cfdd1a64768b"
+    },
+    {
+      "path": "quality/qa-report.md",
+      "size_bytes": 3313,
+      "sha256": "34479d722897db04a805c6f7fa2e6431abbabaef8b942f86f77fddb7be422818"
+    },
+    {
+      "path": "resources/README.md",
+      "size_bytes": 888,
+      "sha256": "efbf84d1c5e09d1dc302d18bac9d1ac8aa6857f64e8bbc87b4ff4c782701b4a6"
+    },
+    {
+      "path": "resources/original_uploads/image(81).png",
+      "size_bytes": 742512,
+      "sha256": "f7aff1b45b1b43f805087d063ef3ff3b242824c8bfe1ffed6f98c4b0510e3a2c"
+    },
+    {
+      "path": "resources/original_uploads/КРМ-версия3.0.xlsx",
+      "size_bytes": 467417,
+      "sha256": "2e96489da6603e99bab0a476f990d4e2090941b4a104abbcb48464796506e1fb"
+    },
+    {
+      "path": "resources/original_uploads/Чек-лист-версия2.0.docx",
+      "size_bytes": 20697,
+      "sha256": "2711a834f14f3d6cfb29135a9c550ffbe7d4e0b5b738bc565baf0fdc2eb5a98d"
+    },
+    {
+      "path": "resources/source-labs/ЛР5.docx",
+      "size_bytes": 9698,
+      "sha256": "c8bafb9accc50fdd41186e0e9afd60753193b588c37786f53b74f6144449eece"
+    },
+    {
+      "path": "resources/source-labs/ЛР6.docx",
+      "size_bytes": 8013,
+      "sha256": "3be89cc2f7f9e817390c453a1e4e179fb445edd4e0b480caa4486fff89847832"
+    },
+    {
+      "path": "resources/source-labs/ЛР7.docx",
+      "size_bytes": 17912,
+      "sha256": "5009f16f2eac40b5bce051dcfa4980a0ef634a60198455fc92c40b573faf342b"
+    },
+    {
+      "path": "resources/source-labs/ЛР8_Калибровка_камеры_Hikrobot.docx",
+      "size_bytes": 34786,
+      "sha256": "8136fe90821db372ab6400c3181ba004473d9826ba4827b2ecb00df0a7635d9a"
+    },
+    {
+      "path": "scripts/README.md",
+      "size_bytes": 222,
+      "sha256": "a753f32602cf516d667215ac7753ba270ade1365b50ac2dade9e3d6c3df78fb0"
+    },
+    {
+      "path": "scripts/build_module.py",
+      "size_bytes": 98239,
+      "sha256": "8ac0dd44bf1bc69bfebe7ea83168f0d83a4a6462fb8e776c6e26c7027b5f73a1"
+    },
+    {
+      "path": "scripts/patch_pagebreaks.py",
+      "size_bytes": 944,
+      "sha256": "ff405c9e70fa11275921974dd7efa5afa24f9533ee1149a2c8ecb69539483230"
+    }
+  ]
+}
