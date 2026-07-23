@@ -1,0 +1,1 @@
+python generate_tree.py --dir ./src --output docs/tree.md --ignore-dirs __pycache__ .tmp --ignore-exts .log .bak
